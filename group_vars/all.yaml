@@ -1,3 +1,7 @@
 MONGODB_HOST: mongodb.kalakoti.fun
 REDIS_HOST: redis.kalakoti.fun
 CATALOGUE_HOST: catalogue.kalakoti.fun
+MYSQL_HOST: mysql.kalakoti.fun
+CART_HOST: cart.kalakoti.fun
+RABBITMQ_HOST: rabbitmq.kalakoti.fun
+
