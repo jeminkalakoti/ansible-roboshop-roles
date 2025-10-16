@@ -1,2 +1,3 @@
 MONGODB_HOST: mongodb.kalakoti.fun
 REDIS_HOST: redis.kalakoti.fun
+CATALOGUE_HOST: catalogue.kalakoti.fun
